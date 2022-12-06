@@ -39,3 +39,8 @@ The list and network of licensed therapists that the chatbot helps the user conn
 A method that allows the chatbot to randomise the response to a particular text.
 An introduction feature where the bot takes the users name from their introduction and greets them back with their name.
 Feature using porter stemmer to recgonize what mood has been input by the user and move on to the next step seamlessly.
+
+New Features that have been added in this individual project 
+ADDED  wikipedia API which allows the user to look for a particular topic of their choice for extra information by accessing this through the "other" java file which would fetch data from the wikipedia api and display it to the user.
+
+As well as a translation API which prompts the user to type the text in the box in order to make the sure language they choose as well as the text they would like to convert.
